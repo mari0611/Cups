@@ -7,6 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h3>Chegamos na view!</h3>
+    <h3>Produtos</h3>
+    {{ dd($produtos) }}
 </body>
 </html>
